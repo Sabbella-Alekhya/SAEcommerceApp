@@ -43,4 +43,4 @@ In conclusion, the shopping cart in SAEcommerceApp is a clean, beginner-friendly
 
 
 
-OUTPUT
+OUTPUT : ![Image](https://github.com/user-attachments/assets/4a49c1f5-3ecf-4c68-942c-04845fdbcf26)
